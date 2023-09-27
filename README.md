@@ -1,5 +1,4 @@
-
-![Downloads](https://img.shields.io/github/downloads///total) ![Forks](https://img.shields.io/github/forks//?style=social) ![Stargazers](https://img.shields.io/github/stars//?style=social) ![Issues](https://img.shields.io/github/issues//) ![License](https://img.shields.io/github/license//) 
+![Downloads](https://img.shields.io/github/downloads/JehanPatel/Coding-Challenges/total) ![Forks](https://img.shields.io/github/forks/JehanPatel/Coding-Challenges?style=social) ![Stargazers](https://img.shields.io/github/stars/JehanPatel/Coding-Challenges?style=social) ![Issues](https://img.shields.io/github/issues/JehanPatel/Coding-Challenges) ![License](https://img.shields.io/github/license/JehanPatel/Coding-Challenges) 
 
 ## Table Of Contents
 
