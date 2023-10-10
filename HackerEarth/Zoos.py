@@ -6,4 +6,7 @@ d = Counter(s)
 if d['z']*2 == d['o']:
     print("Yes")
 else:
-    print("No")
+    print("No") 
+
+if x<1:
+    
