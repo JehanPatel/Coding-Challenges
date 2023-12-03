@@ -5,3 +5,5 @@ if ele % 10 == 0:
     print("Yes")
 else:
     print("No")
+
+    
